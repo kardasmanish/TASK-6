@@ -45,9 +45,11 @@ STEP 6 (WEB APP CREATION USING STREAMLIT)
 
 - Created pickle file of the model
 - Integrating the model in the UI with features
+<img src="Images/Image 1.jpeg" width="400" height="200">
 
 STEP 7 (CLOUD HOSTING)
 
 - Hosted the web application on cloud
 - Web Link :  https://share.streamlit.io/kardasmanish/task-6/main/app.py
+
 - As the pickle file was exceeding 25MB file size, I could not upload it into the repository, because of while the application is failing to run.
