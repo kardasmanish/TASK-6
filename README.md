@@ -1,4 +1,4 @@
-# END TO END DATA SCIENCE MODEL BUILDING WITH WEB APPLICATION  <a href="https://en.wikipedia.org/wiki/DevOps" ><img src="Images/devops.jpg" width="50" height=30></a>
+# END TO END DATA SCIENCE MODEL BUILDING WITH WEB APPLICATION HOSTED ON STREAMLIT CLOUD
 - ## Background
 
 THE OBJECTIVE OF THIS DATA SCIENCE PROJECT IS TO ANALYSE THE TRANSACTIONS AND CLASSIFY THE FRAUD TRANSACTIONS BASED ON THE DATA.
@@ -40,3 +40,13 @@ STEP 4 (MODEL EVALUATION)
 STEP 5 (EXPLAINABLE AI)
 
 - Using LIME and SHAP for model explainablity
+
+STEP 6 (WEB APP CREATION USING STREAMLIT)
+
+- Created pickle file of the model
+- Integrating the model in the UI with features
+
+STEP 7 (CLOUD HOSTING)
+
+- Hosted the web application on cloud
+- 
