@@ -45,7 +45,7 @@ STEP 6 (WEB APP CREATION USING STREAMLIT)
 
 - Created pickle file of the model
 - Integrating the model in the UI with features
-<img src="Images/Image 1.jpeg" width="400" height="200">
+<img src="Images/Image 1.png" width="400" height="200">
 
 STEP 7 (CLOUD HOSTING)
 
